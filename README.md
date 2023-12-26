@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caapel&theme=swift&border_radius=5&exclude_days=Sun)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caapel&theme=swift)
 
 <!---
 caapel/caapel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
