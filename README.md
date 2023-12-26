@@ -1,3 +1,4 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caapel&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caapel&theme=swift)
 
 <!---
