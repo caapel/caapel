@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caapel&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caapel&layout=compact)](https://github.com/caapel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caapel)](https://github.com/caapel/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caapel&theme=swift)
 
 
